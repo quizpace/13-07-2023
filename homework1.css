@@ -1,0 +1,28 @@
+
+h1 {
+    
+    margin: 0%;
+    color: #009900;
+    background-color: aquamarine;
+}
+h1:hover {
+    background-color: rgb(221, 221, 18);
+}
+#fine {
+    color: rgb(13, 112, 151);
+    background-color: coral;
+    padding: 1px;
+    position: absolute;
+    width: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border:5px dashed;
+    border-radius: 2%;
+    border-bottom-color:#0fdb0f; /* Green */
+    border-top-color:#f12c2c;    /* Red */
+    border-left-color:#941489;   /* Black */
+    border-right-color:#0000CC;  /* Blue */
+}
+
+

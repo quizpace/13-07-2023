@@ -1,0 +1,22 @@
+
+body {
+    margin-left: 20px;
+}
+span {
+    color: brown;
+}
+.my-class {
+    color: blueviolet;
+}
+span.my-class2 {
+    color: blue;
+}
+span.my-class:hover {
+    color: chocolate;
+}
+span[name=classic] {
+    color: cornflowerblue;
+}
+#pizza {
+    color: darkgreen;
+}
